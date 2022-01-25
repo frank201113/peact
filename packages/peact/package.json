@@ -1,6 +1,6 @@
 {
   "name": "peact",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "learn React",
   "main": "index.js",
   "publishConfig": {
