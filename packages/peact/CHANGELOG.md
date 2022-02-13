@@ -1,5 +1,11 @@
 # peact
 
+## 6.0.0-next.0
+
+### Major Changes
+
+- test
+
 ## 5.0.1
 
 ### Patch Changes
