@@ -1,0 +1,9 @@
+{
+  "mode": "pre",
+  "tag": "next",
+  "initialVersions": {
+    "for-dom": "5.0.1",
+    "peact": "5.0.1"
+  },
+  "changesets": []
+}
