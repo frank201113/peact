@@ -1,5 +1,11 @@
 # peact
 
+## 5.0.1
+
+### Patch Changes
+
+- c48c90b: test
+
 ## 5.0.0
 
 ### Major Changes
