@@ -13,7 +13,8 @@
     "experimentalDecorators": true,
     "resolveJsonModule": true,
     "esModuleInterop": true,
-    "removeComments": false,
+    "removeComments": true,
+    "declaration": true,
     "jsx": "preserve",
     "lib": [
       "esnext",
