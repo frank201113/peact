@@ -1,5 +1,11 @@
 # for-dom
 
+## 4.0.0
+
+### Major Changes
+
+- 6d33112: publish test
+
 ## 3.0.0
 
 ### Major Changes
