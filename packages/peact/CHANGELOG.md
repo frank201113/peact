@@ -1,5 +1,11 @@
 # peact
 
+## 5.0.0
+
+### Major Changes
+
+- bfa3701: publish
+
 ## 3.0.0
 
 ### Major Changes

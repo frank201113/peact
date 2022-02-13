@@ -1,5 +1,11 @@
 # for-dom
 
+## 5.0.0
+
+### Major Changes
+
+- bfa3701: publish
+
 ## 4.0.0
 
 ### Major Changes
