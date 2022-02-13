@@ -3,5 +3,5 @@ interface Props {
 }
 
 export function Peact(props: Props) {
-  console.log('输出  ', props);
+  console.log('输出  ', props, 1);
 }

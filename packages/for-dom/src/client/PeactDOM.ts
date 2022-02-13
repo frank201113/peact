@@ -1,3 +1,3 @@
 export function PeactDOM() {
-  console.log('测试')
+  console.log('测试', 1)
 }
